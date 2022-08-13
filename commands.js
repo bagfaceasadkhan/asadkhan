@@ -68,10 +68,9 @@ projectArr = [
 ];
 
 cv = [
-  "<span class='command'>Resume<span/>     <a class='nodec' href='./ASADRESUME1.pdf' download='AsadKhanResume' target='_blank'>Download resume</a>",
+  "<span class='command'>Resume<span/>     <a class='nodec' href='./AsadKhanResume.pdf' download='AsadKhanResume' target='_blank'>Download resume</a>",
 ];
 
 contact = [
-  "<span class='command'>Phone: <span/>     +91-9904823073",
   "<span class='command'>Email: <span/>     asadkhan2001.pathan@gmail.com",
 ];
