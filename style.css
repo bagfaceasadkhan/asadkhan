@@ -1,0 +1,54 @@
+* {
+  font-family: "Source Code Pro", monospace;
+}
+
+body {
+  background-color: #111e2c;
+  color: #2fabff;
+  font-size: 15px;
+}
+.banner {
+  color: #f47b60;
+  font-size: 17px;
+}
+a {
+  text-decoration: none;
+  color: #32e190;
+}
+a:hover {
+  background-color: rgba(87, 177, 186, 0.6);
+}
+.nodec {
+  text-decoration: none;
+}
+
+.input {
+  border: none;
+  overflow: auto;
+  outline: none;
+  background-color: #111e2c;
+  color: #32e190;
+  width: 500px;
+}
+.command {
+  color: whitesmoke;
+}
+.error {
+  color: red;
+}
+.about {
+  color: whitesmoke;
+  filter: blur(0.3px);
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 15px;
+  }
+  .input {
+    width: 300px;
+  }
+  .banner {
+    font-size: 10px;
+  }
+}
